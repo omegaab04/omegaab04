@@ -10,9 +10,9 @@ Currently building [**CyboLearn**](https://your-cybo-learn-link.com) to reshape 
 <a href="https://www.linkedin.com/in/adamb0204">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="24" height="24">
 </a>  
-&nbsp;  
+<br>  
 📅 [**Call**](https://cal.com/abouch02)  
 
 ---
 
-_"I don't think limits."_
+I don't think limits.
