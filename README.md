@@ -8,10 +8,12 @@ Currently building [**CyboLearn**](https://your-cybo-learn-link.com) to reshape 
 ## **Chat to me:**  
 
 <a href="https://www.linkedin.com/in/adamb0204">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="24" height="24">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20">
 </a>  
 <br>  
-📅 [**Call**](https://cal.com/abouch02)  
+<a href="https://cal.com/abouch02">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Calendar_emoji.png" width="26" height="26">
+</a> [**Call**](https://cal.com/abouch02)  
 
 ---
 
