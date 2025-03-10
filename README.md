@@ -1,5 +1,5 @@
 Greetings. My name is Adam. 
-I don't even like coding. I just like quant finance. But I'm no expert. 
+I like to code for Quant Finance.
 I'm currently working on a few trading strategies here and there.
 Oh yeah. I love learning too. Maths and History, specifically. 
 Currently reading "The man who solved the market."
