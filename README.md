@@ -1,20 +1,13 @@
-#I'm Adam.  
+**I'm Adam.**
 
 **Student | Founder | Quant Finance Enjoyer**  
 
-I’m passionate about **Learning**. Currently building **CyboLearn** to reshape education. 
+I’m passionate about **learning**. Currently building [**CyboLearn**](https://cybolearn.com) to reshape education.
 
-🚀 **Always exploring** new tech, markets, and ideas.  
-📚 **Diving deep into** ML, Quant Finance, and Economic Models.  
-💡 **Believe in** knowledge, impact, and innovation.  
-
----
-- 🌍 https://cybolearn.com
-
-### **🔗 Connect With Me**
+### **🔗 Chat to me**
 - 💼 www.linkedin.com/in/adamb0204
 - 🚀https://cal.com/abouch02
-
+$$ X_t = X_{t-1} + \epsilon_t, \quad \epsilon_t \sim N(0, \sigma^2) $$
 ---
 
 💻 _"The best way to predict the future is to create it."_
