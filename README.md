@@ -1,18 +1,19 @@
-# 👋 Greetings. I'm Adam.  
+#I'm Adam.  
 
 **Student | Founder | Quant Finance Enjoyer**  
 
-I’m passionate about **Learning**. Currently building **CyboLearn** to reshape education.  
+I’m passionate about **Learning**. Currently building **CyboLearn** to reshape education. 
 
 🚀 **Always exploring** new tech, markets, and ideas.  
 📚 **Diving deep into** ML, Quant Finance, and Economic Models.  
 💡 **Believe in** knowledge, impact, and innovation.  
 
 ---
+- 🌍 https://cybolearn.com
 
 ### **🔗 Connect With Me**
-- 🌍 https://cybolearn.com 
 - 💼 www.linkedin.com/in/adamb0204
+- 🚀https://cal.com/abouch02
 
 ---
 
