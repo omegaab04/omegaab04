@@ -8,5 +8,6 @@ Currently building [**CyboLearn**](https://your-cybo-learn-link.com) to reshape 
 📅 [**Call**](https://cal.com/abouch02)  
 
 Oh yeah. I also **love** Quant Finance 📈.
+Watch this space for my **open-source** trading strategies.
 
 _A human who stops learning after learning everything is a foolish one._
