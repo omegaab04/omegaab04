@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Adam  
+# 👋 Greetings. I'm Adam.  
 
-**Builder | Economist | Lifelong Learner**  
+**Student | Founder | Quant Finance Enjoyer**  
 
-I’m passionate about **Actuarial Science, Finance, and AI**. Currently building **Invoked** & **CyboLearn** to reshape education.  
+I’m passionate about **Learning**. Currently building **CyboLearn** to reshape education.  
 
 🚀 **Always exploring** new tech, markets, and ideas.  
 📚 **Diving deep into** ML, Quant Finance, and Economic Models.  
@@ -11,9 +11,8 @@ I’m passionate about **Actuarial Science, Finance, and AI**. Currently buildin
 ---
 
 ### **🔗 Connect With Me**
-- 🌍 [Website](#)  
-- 🐦 [Twitter](#)  
-- 💼 [LinkedIn](#)  
+- 🌍 https://cybolearn.com 
+- 💼 www.linkedin.com/in/adamb0204
 
 ---
 
