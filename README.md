@@ -1,4 +1,4 @@
-Hello there! **Adam** here :)
+**Hello there!** Adam here :)
 
 I’m passionate about **learning**📚.  
 Currently building [**CyboLearn**](https://cybolearn.com) to reshape education⚡️.  
