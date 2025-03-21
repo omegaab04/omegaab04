@@ -1,4 +1,4 @@
-![Stock Market GIF](https://media.giphy.com/media/xT9IgDEI1iZyb2wqo8/giphy.gif)
+![Stock Candlestick GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 **Hello there!** Adam here.
 
