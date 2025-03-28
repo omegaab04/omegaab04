@@ -10,4 +10,4 @@ Currently building [**CyboLearn**](https://cybolearn.com) to reshape educationâš
 Oh yeah. I also **love** Quant Finance.  
 Watch this space for my future **open-source** trading strategiesðŸ“ˆ.
 
-_"A human who stops learning after learning everything is a foolish one."_
+_"A human who stops learning, after thinking they've learnt everything is a foolish one."_
