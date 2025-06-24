@@ -1,6 +1,5 @@
 **Hello there!** Adam here.
-
-I like **learning**📚.  
+  
 Currently building [**CyboLearn**](https://cybolearn.com) to reshape education⚡️.  
 
 **Chat to me:**  
