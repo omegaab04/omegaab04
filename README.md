@@ -1,5 +1,3 @@
-**Hello there!** Adam here.
-  
 Currently building [**CyboLearn**](https://cybolearn.com) to reshape education⚡️.  
 
 **Chat to me:**  
