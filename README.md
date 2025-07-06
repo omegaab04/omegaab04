@@ -23,4 +23,4 @@ Watch this space for my future **open-source** trading strategies📈.
 
 _"A human who stops learning, after thinking they've learnt everything, is a foolish one."_
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omegaab04&layout=compact)
+
