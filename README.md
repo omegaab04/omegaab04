@@ -23,15 +23,4 @@ Watch this space for my future **open-source** trading strategies📈.
 
 _"A human who stops learning, after thinking they've learnt everything, is a foolish one."_
 
-- uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.svg
-    token: ${{ secrets.METRICS_TOKEN }}
-    base: activity, languages
-    plugin_languages: yes
-    plugin_languages_ignored: html, css
-    plugin_languages_analysis_timeout: 15
-    plugin_languages_categories: programming
-    plugin_languages_recent_days: 30
-    plugin_languages_sections: most-used
-    plugin_languages_limit: 6
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omegaab04&layout=compact)
