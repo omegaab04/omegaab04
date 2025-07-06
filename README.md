@@ -22,3 +22,5 @@ Watch this space for my future **open-source** trading strategies📈.
 ---
 
 _"A human who stops learning, after thinking they've learnt everything, is a foolish one."_
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamb0204&layout=compact&langs_count=6&hide_progress=false)
